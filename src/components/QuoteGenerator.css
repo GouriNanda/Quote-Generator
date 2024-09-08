@@ -1,0 +1,49 @@
+
+.quote-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 122vh; 
+    text-align: center;
+    color: rgb(79, 75, 75);
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: -165px;
+    background-image: url('https://wallpaperaccess.com/full/250769.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-decoration: underline;
+    text-decoration-color: #ab7966;
+    text-decoration-style: solid;
+    background-position: center;
+  }
+  
+.blockquote {
+    font-style: italic;
+    font-weight: 1220;
+    text-align: center;
+    border: 2px solid #656464; 
+    border-radius: 8px; 
+    background-color: #eae4e4;
+    max-width: 600px;
+    min-height: 140px;
+    padding: 10px;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0 auto;
+    
+  }
+  
+.btn {
+    margin-top: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-left: 668px;
+  } 
+
+
+  .blockquote{
+    margin-top: -405px;
+  }
