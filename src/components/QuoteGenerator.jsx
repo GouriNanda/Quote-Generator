@@ -46,7 +46,7 @@ const QuoteGenerator = () => {
           <footer>- {author}</footer>
         </blockquote>
       )}
-      <button className='btn btn-dark' onClick={getRandomQuote}>
+      <button className='btn' onClick={getRandomQuote}>
         Get Another Quote
       </button>
     </div>
